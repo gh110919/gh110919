@@ -14,7 +14,7 @@
 *HTML, BEM,
 CSS, Flex, Grid,
 JavaScript, ECMAScript 2022, TypeScript, Algorithms, React, Redux, NodeJS, Express, NestJS, Webpack, OOP,
-Git, Bash, 
+Git, Bash, SSH,
 Data structures, PostgreSQL, MongoDB,
 Cypress, Docker , Nginx, Figma,*
 
