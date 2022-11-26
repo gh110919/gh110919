@@ -16,7 +16,7 @@ CSS, Flex, Grid,
 JavaScript, ECMAScript 2022, TypeScript, Algorithms, React, Redux, NodeJS, Express, NestJS, Webpack, OOP,
 Git, Bash, SSH,
 Data structures, PostgreSQL, MongoDB,
-Cypress, Docker , Nginx, Figma,*
+Cypress, Docker , Nginx, Figma, VisualStudioCode,*
 
 # Project-1: 
 *[https://nlsusr.github.io/how-to-learn-plus]*
