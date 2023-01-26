@@ -5,15 +5,15 @@
 **04.08.1994**
 
 # Studying in: 
-**Yandex Practicum** from *04.08.2022* to *04.02.2024*
+**Yandex Practicum** from *04.08.2022* to *21.04.2024*
 
 # Faculty:
-**Web Development Plus** *18 cohort*
+**Web Development Plus** *20 cohort*
 
 # My stack: 
 *HTML, BEM,
 CSS, Flex, Grid,
-JavaScript, ECMAScript 2022, TypeScript, Algorithms, React, Redux, NodeJS, Express, NestJS, Webpack, OOP,
+JavaScript, ECMAScript 2023, TypeScript, Algorithms, React, Redux, NodeJS, Express, NestJS, Webpack, OOP,
 Git, Bash, SSH,
 Data structures, PostgreSQL, MongoDB,
 Cypress, Docker , Nginx, Figma, VisualStudioCode,*
