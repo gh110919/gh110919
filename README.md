@@ -23,9 +23,17 @@ Cypress, Docker , Nginx, Figma, VisualStudioCode,*
 
 # Project-2: 
 *[https://nlsusr.github.io/russian-travel]*
+*[https://github.com/NLSUSR/mesto-project/tree/adaptive-layout]*
 
 # Project-3: 
-*[https://nlsusr.github.io/mesto-project]*
+*[https://github.com/NLSUSR/mesto-project/tree/javascript]*
 
-# Project-4: 
+# Project-4:
+*[https://github.com/NLSUSR/friend-fund-project]*
 *[https://nlsusr.github.io/soda-project]*
+
+# Project-5: 
+*[https://github.com/NLSUSR/mesto-project/tree/valiadation-and-server]*
+
+# Project-6: 
+*[https://github.com/NLSUSR/mesto-project/tree/feat/OOP]*
