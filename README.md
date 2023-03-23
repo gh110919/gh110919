@@ -33,7 +33,9 @@ Cypress, Docker , Nginx, Figma, VisualStudioCode,*
 *[https://nlsusr.github.io/soda-project]*
 
 # Project-5: 
-*[https://github.com/NLSUSR/mesto-project/tree/valiadation-and-server]*
+*[https://github.com/NLSUSR/mesto-project/tree/validation-and-infrastructure]*
+*[https://github.com/NLSUSR/mesto-project/tree/interaction-with-the-server]*
+*[https://github.com/NLSUSR/mesto-project/tree/gh-pages]*
 
 # Project-6: 
-*[https://github.com/NLSUSR/mesto-project/tree/feat/OOP]*
+*[https://github.com/NLSUSR/mesto-project/tree/Object-Oriented-Programming]*
