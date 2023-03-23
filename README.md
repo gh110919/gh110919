@@ -19,23 +19,23 @@ Data structures, PostgreSQL, MongoDB,
 Cypress, Docker , Nginx, Figma, VisualStudioCode,*
 
 # Project-1: 
-*[https://nlsusr.github.io/how-to-learn-plus]*
+1. [**Научиться учиться**](https://nlsusr.github.io/how-to-learn-plus).
 
 # Project-2: 
-*[https://nlsusr.github.io/russian-travel]*
-*[https://github.com/NLSUSR/mesto-project/tree/adaptive-layout]*
+1. [**Путешествие по России**](https://nlsusr.github.io/russian-travel),
+2. [**Место Россия: Адаптивная верстка**](https://github.com/NLSUSR/mesto-project/tree/adaptive-layout).
 
 # Project-3: 
-*[https://github.com/NLSUSR/mesto-project/tree/javascript]*
+1. [**Место Россия: Начало изучения языка JS**](https://github.com/NLSUSR/mesto-project/tree/javascript).
 
 # Project-4:
-*[https://github.com/NLSUSR/friend-fund-project]*
-*[https://nlsusr.github.io/soda-project]*
+1. [**Проект благотварительного фонда Друзья**](https://github.com/NLSUSR/friend-fund-project),
+2. [**(Проект Сода) Опциональный проект после сдачи проекта фонда Друзья**](https://nlsusr.github.io/soda-project).
 
 # Project-5: 
-*[https://github.com/NLSUSR/mesto-project/tree/validation-and-infrastructure]*
-*[https://github.com/NLSUSR/mesto-project/tree/interaction-with-the-server]*
-*[https://github.com/NLSUSR/mesto-project/tree/gh-pages]*
+1. [**Место Россия: Валидация и инфраструктура проекта(Начало)**](https://github.com/NLSUSR/mesto-project/tree/validation-and-infrastructure),
+2. [**Место Россия: Взаимодействие с сервером(Продолжение)**](https://github.com/NLSUSR/mesto-project/tree/interaction-with-the-server),
+3. [**Место Россия: Взаимодействие с GitHub-Pages(Конец)**](https://github.com/NLSUSR/mesto-project/tree/gh-pages).
 
 # Project-6: 
-*[https://github.com/NLSUSR/mesto-project/tree/Object-Oriented-Programming]*
+1. [**Место Россия: Объектно Ориентированое Программирование**](https://github.com/NLSUSR/mesto-project/tree/Object-Oriented-Programming).
