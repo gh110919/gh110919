@@ -39,3 +39,6 @@ Cypress, Docker , Nginx, Figma, VisualStudioCode,*
 
 # Project-6: 
 1. [**Место Россия: Объектно Ориентированое Программирование**](https://github.com/NLSUSR/mesto-project/tree/Object-Oriented-Programming).
+
+# Project-7: 
+1. [**React Stellar Burger: CRA-заготовка и структура папок под компоненты**](https://github.com/NLSUSR/react-stellar-burger/tree/month-7/step-1).
