@@ -42,3 +42,8 @@ Cypress, Docker , Nginx, Figma, VisualStudioCode,*
 
 # Project-7: 
 1. [**React Stellar Burger: CRA-заготовка и структура папок под компоненты**](https://github.com/NLSUSR/react-stellar-burger/tree/month-7/step-1).
+2. [**Финальный проект. Написать весь JSX и сверстать**](https://github.com/NLSUSR/react-stellar-burger/tree/month-7/step-2).
+
+# Project-8: 
+1. [**Сдача проекта Stellar Burger: перенос состояния в Context**](https://github.com/NLSUSR/react-stellar-burger/tree/month-8/step-1).
+2. [**Сдача проекта Stellar Burger: практика Redux и React DnD**](https://github.com/NLSUSR/react-stellar-burger/tree/month-8/step-2).
