@@ -47,3 +47,7 @@ Cypress, Docker , Nginx, Figma, VisualStudioCode,*
 # Project-8: 
 1. [**Сдача проекта Stellar Burger: перенос состояния в Context**](https://github.com/NLSUSR/react-stellar-burger/tree/month-8/step-1).
 2. [**Сдача проекта Stellar Burger: практика Redux и React DnD**](https://github.com/NLSUSR/react-stellar-burger/tree/month-8/step-2).
+
+# Project-9:
+1. [**Сдача проекта Stellar Burger: роутинг и авторизация**](https://github.com/NLSUSR/react-stellar-burger/tree/month-9/step-1).
+2. [**Сдача проекта Stellar Burger: создание ленты заказов**](https://github.com/NLSUSR/react-stellar-burger/tree/month-9/step-2).
