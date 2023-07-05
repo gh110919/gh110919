@@ -29,7 +29,7 @@ Cypress, Docker , Nginx, Figma, VisualStudioCode,*
 1. **Место Россия: Начало изучения языка JS :**[++Код++](https://github.com/NLSUSR/mesto-project/tree/javascript)/[++Cтраница++](https://nlsusr.github.io/mesto-project/)
 
 # Project-4: 
-1. **Проект благотварительного фонда Друзья :**[++Код++](https://github.com/NLSUSR/friend-fund-project/tree/main)/[++Страница++](https://github.com/NLSUSR/friend-fund-project)
+1. **Проект благотварительного фонда Друзья :**[++Код++](https://github.com/NLSUSR/friend-fund-project/tree/main)/[++Страница++](https://nlsusr.github.io/friend-fund-project)
 2. **(Проект Сода) Опциональный проект после сдачи проекта фонда Друзья :**[++Код++](https://github.com/NLSUSR/soda-project/tree/main)/[++Страница++](https://nlsusr.github.io/soda-project)
 
 # Project-5: 
