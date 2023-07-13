@@ -4,11 +4,11 @@
 # Birth date: 
 **04.08.1994**
 
-# Studying in: 
-**Yandex Practicum** from *04.08.2022* to *21.04.2024*
+# Studied at: 
+**Yandex Practicum**
 
 # Faculty:
-**Web Development Plus** *20 cohort*
+**Web Development**
 
 # My stack: 
 *HTML, BEM,
