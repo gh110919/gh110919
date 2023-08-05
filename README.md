@@ -10,5 +10,7 @@
 # Faculty:
 **Web Development**
 
-# My stack:
-**HTML5(pug),CSS(sass),JS(js,ts,jsx,tsx,vue)**
+# My languages:
+**HTML(5) [pug], CSS(3) [sass], JS(ESNext) [js,ts,jsx,tsx,vue]**
+# My technologies:
+**React, Vue, Angular, Redux, Effector, Mobx, Node, npm, yarn, Nest, Express, Mongo, Postgres**
