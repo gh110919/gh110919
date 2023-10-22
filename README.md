@@ -13,4 +13,4 @@
 # My languages:
 **HTML(5) [pug], CSS(3) [sass], JS(ESNext) [js,ts,jsx,tsx,vue]**
 # My technologies:
-**React, Vue, Angular, Redux, Effector, Mobx, Node, npm, yarn, Nest, Express, Mongo, Postgres**
+**React, Vue, Angular, Redux, Effector, Zustand, Node, npm, yarn, webpack , vite, Nest, Express, Mongo, Postgres**
