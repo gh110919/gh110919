@@ -11,6 +11,7 @@
 **Web Development**
 
 # My languages:
-**HTML(5) [pug], CSS(3) [sass], JS(ESNext) [js,ts,jsx,tsx,vue]**
+**JS(ES6,etc.)incl.[js,ts,jsx,tsx], HTML(5)incl.[pug], CSS(3)incl.[scss,sass,less]**
+
 # My technologies:
-**React, Vue, Angular, Redux, Effector, Zustand, Node, npm, yarn, webpack , vite, Nest, Express, Mongo, Postgres**
+**React-Redux, Vue-Pinia, Angular-NgRx, Node, Deno, NPM, Yarn, Webpack, Vite, Nest, Express, TypeORM, Sequelize, SQLite, MySQL, PostgreSQL and Mongo**
