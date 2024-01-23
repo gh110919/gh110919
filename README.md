@@ -10,7 +10,7 @@
 **My languages:**
 + # HTML(5)incl.[pug], 
 + # CSS(3)incl.[scss,sass,less],
-+ # JS(ES6,etc.)incl.[js,ts,jsx,tsx]
++ # JS/TS(ES6,etc.)incl.[js,ts,jsx,tsx]
 + # SQL(23)incl.[DDL,DML,DCL,TCL]
   
 **Main stack:**
