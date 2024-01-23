@@ -5,7 +5,7 @@
 # 29 yo
 
 **Direction:**
-# Web Development
+# Fullstack Web Development
 
 **My languages:**
 + # HTML(5)incl.[pug], 
