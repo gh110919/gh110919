@@ -8,10 +8,11 @@
 # Fullstack Web Development
 
 **My languages:**
-+ # HTML(5)incl.[pug], 
-+ # CSS(3)incl.[scss,sass,less],
-+ # JS/TS(ES6,etc.)incl.[js,ts,jsx,tsx]
-+ # SQL(23)incl.[DDL,DML,DCL,TCL]
++ # HTML(5)incl. preprocessors, 
++ # CSS(3)incl. preprocessors,
++ # JS/TS(ES6,etc.)
++ # SQL(23)
++ # GQL(21)
   
 **Main stack:**
 - # MERN (Mongo Express React Node)
