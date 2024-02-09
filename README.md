@@ -10,9 +10,9 @@
 **My languages:**
 + # HTML(5)incl. preprocessors, 
 + # CSS(3)incl. preprocessors,
-+ # JS/TS(ES6,etc.)
-+ # SQL(23)
-+ # GQL(21)
++ # JS/TS(ES6,etc.)incl. frameworks,
++ # SQL(23)incl. [TypeORM, Sequelize],
++ # GQL(21)incl. [Apollo, Relay].
   
 **Main stack:**
 - # MERN (Mongo Express React Node)
