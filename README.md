@@ -11,7 +11,7 @@
 + # HTML(5)incl. preprocessors, 
 + # CSS(3)incl. preprocessors,
 + # JS/TS(ES6,etc.)incl. frameworks,
-+ # SQL(23)incl. [TypeORM[🌍](https://typeorm.io/), Sequelize[🌍](https://sequelize.org/docs/v6/getting-started/)],
++ # SQL(23)incl. [Knex[🌍](https://knexjs.org/guide/), TypeORM[🌍](https://typeorm.io/), Sequelize[🌍](https://sequelize.org/docs/v6/getting-started/)],
 + # GQL(21)incl. [Apollo[🌍](https://www.apollographql.com/docs/react/get-started)[🌍](https://www.apollographql.com/docs/apollo-server/getting-started), Relay[🌍](https://relay.dev/docs/getting-started/installation-and-setup/ )[🌍](https://relay.dev/docs/guides/graphql-server-specification/)].
   
 **Main stack:**
@@ -27,7 +27,7 @@
 + # NPM[🌍](https://docs.npmjs.com/getting-started), Yarn[🌍](https://yarnpkg.com/getting-started), 
 + # Webpack[🌍](https://webpack.js.org/guides/getting-started/), Vite[🌍](https://vitejs.dev/guide/), 
 + # Nest[🌍](https://docs.nestjs.com/), Express[🌍](https://expressjs.com/en/starter/hello-world.html), 
-+ # TypeORM[🌍](https://typeorm.io/), Sequelize[🌍](https://sequelize.org/docs/v6/getting-started/), 
++ # Knex[🌍](https://knexjs.org/guide/), TypeORM[🌍](https://typeorm.io/), Sequelize[🌍](https://sequelize.org/docs/v6/getting-started/), 
 + # SQLite[🌍](https://www.sqlite.org/quickstart.html), MySQL[🌍](https://dev.mysql.com/doc/mysql-getting-started/en/), PostgreSQL[🌍](https://www.postgresql.org/docs/) 
 + # and Mongo[🌍](https://www.mongodb.com/docs/manual/tutorial/getting-started/)
 
