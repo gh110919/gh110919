@@ -34,4 +34,8 @@
 **Planning to learn:**
 + # PHP[🌍](https://ru.hexlet.io/courses/php-basics)[🌍](https://www.php.net/docs.php)(Laravel[🌍](https://laravel.com/docs))
 + # Python[🌍](https://ru.hexlet.io/courses/python-basics)[🌍](https://www.python.org/about/gettingstarted/)(Django[🌍](https://www.djangoproject.com/start/))
-+ # Golang[🌍](https://ru.hexlet.io/courses/go-basics),Rust[🌍](https://otus.ru/lessons/rust-developer-basic/)[🌍](https://otus.ru/lessons/rust-developer/) or C++[🌍](https://otus.ru/lessons/cpp-specialization/)
++ # Golang[🌍](https://ru.hexlet.io/courses/go-basics)
+
+**I also want to try to learn the programming languages:**
++ # C++[🌍](https://otus.ru/lessons/cpp-specialization/)(UnrealEngine[🌍](https://www.unrealengine.com/en-US))
++ # C#[🌍](https://otus.ru/lessons/c-sharp-specialization/)(UnityEngine[🌍](https://unity.com))
