@@ -22,11 +22,12 @@
 **My technologies:**
 + # React[🌍](https://react.dev/learn)(SC[🌍](https://styled-components.com/docs/basics#getting-started))-Redux[🌍](https://redux.js.org/introduction/getting-started)(Toolkit[🌍](https://redux-toolkit.js.org/introduction/getting-started)),
 + # Vue[🌍](https://vuejs.org/guide/quick-start.html)-Pinia[🌍](https://pinia.vuejs.org/getting-started.html), 
-+ # Angular[🌍](https://angular.io/start)-NgRx[🌍](https://next.ngrx.io/guide/store), 
++ # Angular[🌍](https://angular.io/start)-NgRx[🌍](https://next.ngrx.io/guide/store),
 + # Node[🌍](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs), Deno[🌍](https://docs.deno.com/runtime/manual/), 
 + # NPM[🌍](https://docs.npmjs.com/getting-started), Yarn[🌍](https://yarnpkg.com/getting-started), 
 + # Webpack[🌍](https://webpack.js.org/guides/getting-started/), Vite[🌍](https://vitejs.dev/guide/), 
-+ # Nest[🌍](https://docs.nestjs.com/), Express[🌍](https://expressjs.com/en/starter/hello-world.html), 
++ # Nest[🌍](https://docs.nestjs.com/), Express[🌍](https://expressjs.com/en/starter/hello-world.html),
++ # Docker[🌍](https://www.docker.com/get-started/), Docker-Compose[🌍](https://docs.docker.com/compose/)
 + # Knex[🌍](https://knexjs.org/guide/), TypeORM[🌍](https://typeorm.io/), Sequelize[🌍](https://sequelize.org/docs/v6/getting-started/), 
 + # SQLite[🌍](https://www.sqlite.org/quickstart.html), MySQL[🌍](https://dev.mysql.com/doc/mysql-getting-started/en/), PostgreSQL[🌍](https://www.postgresql.org/docs/) 
 + # and Mongo[🌍](https://www.mongodb.com/docs/manual/tutorial/getting-started/)
