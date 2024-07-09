@@ -23,6 +23,7 @@
 + # React[🌍](https://react.dev/learn)(SC[🌍](https://styled-components.com/docs/basics#getting-started))-Redux[🌍](https://redux.js.org/introduction/getting-started)(Toolkit[🌍](https://redux-toolkit.js.org/introduction/getting-started)),
 + # Vue[🌍](https://vuejs.org/guide/quick-start.html)-Pinia[🌍](https://pinia.vuejs.org/getting-started.html), 
 + # Angular[🌍](https://angular.io/start)-NgRx[🌍](https://next.ngrx.io/guide/store),
++ # Cypress[🌍](https://docs.cypress.io/guides/getting-started/installing-cypress)
 + # Node[🌍](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs), Deno[🌍](https://docs.deno.com/runtime/manual/), 
 + # NPM[🌍](https://docs.npmjs.com/getting-started), Yarn[🌍](https://yarnpkg.com/getting-started), 
 + # Webpack[🌍](https://webpack.js.org/guides/getting-started/), Vite[🌍](https://vitejs.dev/guide/), 
