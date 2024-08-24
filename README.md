@@ -2,7 +2,7 @@
 # Sergeev Ilia
 
 **Age:**
-# 29 yo
+# 30 yo
 
 **Direction:**
 # Fullstack Web Development [🌍](https://practicum.yandex.ru/profile/web-plus/)
