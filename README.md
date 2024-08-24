@@ -14,10 +14,11 @@
 + # SQL(23)incl. [Knex[🌍](https://knexjs.org/guide/), TypeORM[🌍](https://typeorm.io/), Sequelize[🌍](https://sequelize.org/docs/v6/getting-started/)],
 + # GQL(21)incl. [Apollo[🌍](https://www.apollographql.com/docs/react/get-started)[🌍](https://www.apollographql.com/docs/apollo-server/getting-started), Relay[🌍](https://relay.dev/docs/getting-started/installation-and-setup/ )[🌍](https://relay.dev/docs/guides/graphql-server-specification/)].
   
-**Main stack:**
-- # MERN (Mongo Express React Node)
-**Secondary stack:**
-- # SNAD (SQLite Nest Angular Deno)
+**Main stacks:**
+- # MERN (MySQL(Knex ORM) Express React(or Next) Node)
+- # PEVN (Postgres(Sequelize ORM) Express Vue(or Nuxt) Node)
+- # ONAN (Oracle(TypeORM) Nest Angular Node)
+
   
 **My technologies:**
 + # React[🌍](https://react.dev/learn)(SC[🌍](https://styled-components.com/docs/basics#getting-started))-Redux[🌍](https://redux.js.org/introduction/getting-started)(Toolkit[🌍](https://redux-toolkit.js.org/introduction/getting-started)),
@@ -36,7 +37,8 @@
 **Planning to learn:**
 + # PHP[🌍](https://ru.hexlet.io/courses/php-basics)[🌍](https://www.php.net/docs.php)(Laravel[🌍](https://laravel.com/docs))
 + # Python[🌍](https://ru.hexlet.io/courses/python-basics)[🌍](https://www.python.org/about/gettingstarted/)(Django[🌍](https://www.djangoproject.com/start/))
-+ # Golang[🌍](https://ru.hexlet.io/courses/go-basics)
++ # Go[🌍](https://ru.hexlet.io/courses/go-basics)
++ # Rust[🌍](https://otus.ru/lessons/rust-developer-basic/)
 
 **I also want to try to learn the programming languages:**
 + # C++[🌍](https://otus.ru/lessons/cpp-specialization/)(UnrealEngine[🌍](https://www.unrealengine.com/en-US))
