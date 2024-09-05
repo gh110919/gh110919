@@ -5,7 +5,11 @@
 # 30 yo
 
 **Direction:**
-# Fullstack Web Development [🌍](https://practicum.yandex.ru/profile/web-plus/)
+# Fullstack Web Development [🌍](https://practicum.yandex.ru/profile/web-plus/) 
+
+**My current best creation:**
+# Brontosaur-landing [🌍](https://github.com/gh110919/brontosaur-landing) 
+Stack: Next(SSR React Framework),Redux-Toolkit,Styled-Components,TypeScript,Fully rubberfull layout with mobile and desktop adaptive
 
 **My languages:**
 + # HTML(5)incl. preprocessors, 
