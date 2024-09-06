@@ -8,7 +8,7 @@
 # Fullstack Web Development [🌍](https://practicum.yandex.ru/profile/web-plus/) 
 
 **My current best creation:**
-# Brontosaur-landing [🌍](https://github.com/gh110919/brontosaur-landing) 
+# Brontosaur-landing [Code:🌍](https://github.com/gh110919/brontosaur-landing) [Site:🌍](https://promo.brontosaur.ru/)
 Stack: Next(SSR React Framework),Redux-Toolkit,Styled-Components,TypeScript,Fully rubberfull layout with mobile and desktop adaptive
 
 **My languages:**
