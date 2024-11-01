@@ -1,116 +1,74 @@
-**Full name:**
 # Sergeev Ilia
 
-**Age:**
-# 30 yo
+## 🌟 About Me
 
-**Direction:**
-# Fullstack Web Development [🌍](https://practicum.yandex.ru/profile/web-plus/) 
+**Age:** 30 years old  
+**Direction:** [Fullstack Web Development 🌍](https://practicum.yandex.ru/profile/web-plus/)  
 
-**My current best creation:**
-# Brontosaur-landing [Code:🌍](https://github.com/gh110919/brontosaur-landing) [Site:🌍](https://promo.brontosaur.ru/)
-Stack: Next(SSR React Framework),Redux-Toolkit,Styled-Components,TypeScript,Fully rubberfull layout with mobile and desktop adaptive
+## 🚀 My Best Creations
 
-# Tochka_Bank-Integration [Backend:🌍](https://github.com/gh110919/tochka_bank-openapi_methods-ts) [Frontend:🌍](https://github.com/gh110919/tochka_bank-openapi_frontend-ts)
-Stack: Vite,React,Styled-Components,Express,Axios,TypeScript
+### Brontosaur-landing
+- **Code:** [GitHub 🌍](https://github.com/gh110919/brontosaur-landing)
+- **Site:** [Brontosaur 🌍](https://promo.brontosaur.ru/)
+- **Stack:** Next (SSR React Framework), Redux-Toolkit, Styled-Components, TypeScript
+- **Description:** Fully responsive layout with mobile and desktop adaptive
 
-**My languages:**
-+ # HTML(5)incl. preprocessors:
-  - ## Pug[🌍](https://pugjs.org/api/getting-started.html) 
+### Tochka Bank Integration
+- **Backend:** [GitHub 🌍](https://github.com/gh110919/tochka_bank-openapi_methods-ts)
+- **Frontend:** [GitHub 🌍](https://github.com/gh110919/tochka_bank-openapi_frontend-ts)
+- **Stack:** Vite, React, Styled-Components, Express, Axios, TypeScript
 
-+ # CSS(3)incl. preprocessors:
-  - ## Sass[🌍](https://sass-lang.com/documentation/) 
-  - ## Less[🌍](https://lesscss.org/#overview) 
+## 💻 My Languages
 
-+ # JS/TS(ES6,etc.)incl. frameworks:
-  - ## React[🌍](https://react.dev/learn)
-  - ## Vue[🌍](https://vuejs.org/guide/quick-start.html)
-  - ## Angular[🌍](https://angular.io/start)
+### HTML5 and CSS3
+- **HTML:** HTML5, [Pug 🌍](https://pugjs.org/api/getting-started.html)
+- **CSS:** CSS3, [Sass 🌍](https://sass-lang.com/documentation/), [Less 🌍](https://lesscss.org/#overview)
 
-+ # NoSQL:
-  - ## Mongo[🌍](https://www.mongodb.com/docs/manual/tutorial/getting-started/)
-    - ### Mongoose[🌍](https://mongoosejs.com/docs/guide.html)
+### JavaScript / TypeScript
+- **JS/TS:** ES6 and beyond
+- **Frameworks:** [React 🌍](https://react.dev/learn), [Vue 🌍](https://vuejs.org/guide/quick-start.html), [Angular 🌍](https://angular.io/start)
 
-+ # SQL(23): 
-  - ## ORM:
-    - ### Knex[🌍](https://knexjs.org/guide/)
-    - ### TypeORM[🌍](https://typeorm.io/)
-    - ### Sequelize[🌍](https://sequelize.org/docs/v6/getting-started/)
-  - ## Databases:
-    - ### SQLite[🌍](https://www.sqlite.org/quickstart.html)
-    - ### MySQL[🌍](https://dev.mysql.com/doc/mysql-getting-started/en/)
-    - ### PostgreSQL[🌍](https://www.postgresql.org/docs/)
+### NoSQL
+- **MongoDB:** [Mongo 🌍](https://www.mongodb.com/docs/manual/tutorial/getting-started/), [Mongoose 🌍](https://mongoosejs.com/docs/guide.html)
 
-+ # GQL(21): 
-  - ## Apollo
-    - ### Client[🌍](https://www.apollographql.com/docs/react/get-started)
-    - ### Server[🌍](https://www.apollographql.com/docs/apollo-server/getting-started) 
-  - ## Relay
-    - ### Client[🌍](https://relay.dev/docs/getting-started/installation-and-setup/ )
-    - ### Server[🌍](https://relay.dev/docs/guides/graphql-server-specification/)
-  
-**Main stacks:**
-- # MERN (MySQL(Knex ORM) Express React(or Next) Node)
-- # PEVN (Postgres(Sequelize ORM) Express Vue(or Nuxt) Node)
-- # ONAN (Oracle(TypeORM) Nest Angular Node)
+### SQL
+- **ORM:** [Knex 🌍](https://knexjs.org/guide/), [TypeORM 🌍](https://typeorm.io/), [Sequelize 🌍](https://sequelize.org/docs/v6/getting-started/)
+- **Databases:** [SQLite 🌍](https://www.sqlite.org/quickstart.html), [MySQL 🌍](https://dev.mysql.com/doc/mysql-getting-started/en/), [PostgreSQL 🌍](https://www.postgresql.org/docs/)
 
-**My technologies:**
-+ # React[🌍](https://react.dev/learn)
-  - ## ReduxToolkit[🌍](https://redux-toolkit.js.org/introduction/getting-started)
-  - ## StyledComponents[🌍](https://styled-components.com/docs/basics#getting-started)
-  
+### GraphQL
+- **Apollo:** [Client 🌍](https://www.apollographql.com/docs/react/get-started), [Server 🌍](https://www.apollographql.com/docs/apollo-server/getting-started)
+- **Relay:** [Client 🌍](https://relay.dev/docs/getting-started/installation-and-setup/), [Server 🌍](https://relay.dev/docs/guides/graphql-server-specification/)
 
-+ # Vue[🌍](https://vuejs.org/guide/quick-start.html)
-  - ## Pinia[🌍](https://pinia.vuejs.org/getting-started.html)
+## 🔧 Main Stacks
+- **MERN:** MySQL (Knex ORM), Express, React (or Next), Node
+- **PEVN:** Postgres (Sequelize ORM), Express, Vue (or Nuxt), Node
+- **ONAN:** Oracle (TypeORM), Nest, Angular, Node
 
-+ # Angular[🌍](https://angular.io/start)
-  - ## NgRx[🌍](https://next.ngrx.io/guide/store)
+## 📚 Additional Technologies
 
-+ # Testing:
-  - ## Cypress[🌍](https://docs.cypress.io/guides/getting-started/installing-cypress)
+- **React:** [ReduxToolkit 🌍](https://redux-toolkit.js.org/introduction/getting-started), [StyledComponents 🌍](https://styled-components.com/docs/basics#getting-started)
+- **Vue:** [Pinia 🌍](https://pinia.vuejs.org/getting-started.html)
+- **Angular:** [NgRx 🌍](https://next.ngrx.io/guide/store)
+- **Testing:** [Cypress 🌍](https://docs.cypress.io/guides/getting-started/installing-cypress)
+- **Platform:** [Node 🌍](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs), [Deno 🌍](https://docs.deno.com/runtime/manual/)
+- **Package Managers:** [NPM 🌍](https://docs.npmjs.com/getting-started), [Yarn 🌍](https://yarnpkg.com/getting-started)
+- **Builders:** [Webpack 🌍](https://webpack.js.org/guides/getting-started/), [Vite 🌍](https://vitejs.dev/guide/)
+- **JS Backend:** [Nest 🌍](https://docs.nestjs.com/), [Express 🌍](https://expressjs.com/en/starter/hello-world.html)
+- **3D:** [Three.js 🌍](https://threejs.org/docs/index.html#manual/en/introduction/Installation), [Babylon.js 🌍](https://doc.babylonjs.com/journey)
+- **Containerization:** [Docker 🌍](https://www.docker.com/get-started/), [Docker-Compose 🌍](https://docs.docker.com/compose/)
 
-+ # Platform:
-  - ## Node[🌍](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
-  - ## Deno[🌍](https://docs.deno.com/runtime/manual/) 
+## 🐍 Python
+- **Basics:** [Hexlet 🌍](https://ru.hexlet.io/courses/python-basics), [Official Site 🌍](https://www.python.org/about/gettingstarted/)
+- **Frameworks:** [FastAPI 🌍](https://fastapi.tiangolo.com/learn/), [SQLAlchemyORM 🌍](https://docs.sqlalchemy.org/en/20/intro.html#documentation-overview), [AriadneGQL 🌍](https://ariadnegraphql.org/docs/intro)
 
-+ # Package Managers:
-  - ## NPM[🌍](https://docs.npmjs.com/getting-started)
-  - ## Yarn[🌍](https://yarnpkg.com/getting-started)
+## 🐘 PHP
+- **Basics:** [Hexlet 🌍](https://ru.hexlet.io/courses/php-basics), [Official Site 🌍](https://www.php.net/docs.php)
+- **Frameworks:** [ReactPHP 🌍](https://reactphp.org/), [RedBeanORM 🌍](https://redbeanphp.com/api/index.html)
 
-+ # Builders:
-  - ## Webpack[🌍](https://webpack.js.org/guides/getting-started/), 
-  - ## Vite[🌍](https://vitejs.dev/guide/)
+## 📚 Planning to Learn
+- **Go:** [Hexlet 🌍](https://ru.hexlet.io/courses/go-basics)
+- **Rust:** [Otus 🌍](https://otus.ru/lessons/rust-developer-basic/)
 
-+ # JS Backends:
-  - ## Nest[🌍](https://docs.nestjs.com/), 
-  - ## Express[🌍](https://expressjs.com/en/starter/hello-world.html)
-
-+ # 3D:
-  - ## Tree.js[🌍](https://threejs.org/docs/index.html#manual/en/introduction/Installation), 
-  - ## Babylon.js[🌍](https://doc.babylonjs.com/journey)
-
-+ # Containerization:
-  - ## Docker[🌍](https://www.docker.com/get-started/)
-    - ### Docker-Compose[🌍](https://docs.docker.com/compose/)
-
-
-
-+ # Python[🌍](https://ru.hexlet.io/courses/python-basics)[🌍](https://www.python.org/about/gettingstarted/) 
-  - ## FastAPI[🌍](https://fastapi.tiangolo.com/learn/) 
-  - ## SQLAlchemyORM[🌍](https://docs.sqlalchemy.org/en/20/intro.html#documentation-overview)
-  - ## AriadneGQL[🌍](https://ariadnegraphql.org/docs/intro)
- 
-+ # PHP[🌍](https://ru.hexlet.io/courses/php-basics)[🌍](https://www.php.net/docs.php), 
-  - ## ReactPHP[🌍](https://reactphp.org/)
-  - ## RedBeanORM[🌍](https://redbeanphp.com/api/index.html)
-
-**Planning to learn:**
-+ # Go[🌍](https://ru.hexlet.io/courses/go-basics)
-+ # Rust[🌍](https://otus.ru/lessons/rust-developer-basic/)
-
-**I also want to try to learn the programming languages:**
-+ # C++[🌍](https://otus.ru/lessons/cpp-specialization/)
-  - ## UnrealEngine[🌍](https://www.unrealengine.com/en-US)
-
-+ # C#[🌍](https://otus.ru/lessons/c-sharp-specialization/) 
-  - ## UnityEngine[🌍](https://unity.com)
+## 🧠 I Also Want to Learn
+- **C++:** [Otus 🌍](https://otus.ru/lessons/cpp-specialization/), [UnrealEngine 🌍](https://www.unrealengine.com/en-US)
+- **C#:** [Otus 🌍](https://otus.ru/lessons/c-sharp-specialization/), [UnityEngine 🌍](https://unity.com)
