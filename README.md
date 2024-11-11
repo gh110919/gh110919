@@ -50,7 +50,7 @@
 - **Vue:** [Pinia 🌍](https://pinia.vuejs.org/getting-started.html)
 - **Angular:** [NgRx 🌍](https://next.ngrx.io/guide/store)
 - **Testing:** [Cypress 🌍](https://docs.cypress.io/guides/getting-started/installing-cypress)
-- **Platform:** [Node 🌍](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs), [Deno 🌍](https://docs.deno.com/runtime/manual/)
+- **Platform:** [Node 🌍](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs), [Deno 🌍](https://docs.deno.com/runtime/manual/), [Bun 🌍](https://bun.sh/docs)
 - **Package Managers:** [NPM 🌍](https://docs.npmjs.com/getting-started), [Yarn 🌍](https://yarnpkg.com/getting-started)
 - **Builders:** [Webpack 🌍](https://webpack.js.org/guides/getting-started/), [Vite 🌍](https://vitejs.dev/guide/)
 - **JS Backend:** [Nest 🌍](https://docs.nestjs.com/), [Express 🌍](https://expressjs.com/en/starter/hello-world.html)
