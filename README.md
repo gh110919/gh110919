@@ -40,7 +40,7 @@
 - **Relay:** [Client 🌍](https://relay.dev/docs/getting-started/installation-and-setup/), [Server 🌍](https://relay.dev/docs/guides/graphql-server-specification/)
 
 ## 🔧 Main Stacks
-- **MERN:** MySQL (Knex ORM), Express, React (or Next), Node
+- **MERN:** MySQL (Knex ORM), Express, React (or Next and Remix), Node
 - **PEVN:** Postgres (Sequelize ORM), Express, Vue (or Nuxt), Node
 - **ONAN:** Oracle (TypeORM), Nest, Angular, Node
 
