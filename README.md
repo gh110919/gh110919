@@ -13,6 +13,11 @@
 - **Stack:** Next (SSR React Framework), Redux-Toolkit, Styled-Components, TypeScript
 - **Description:** Fully responsive layout with mobile and desktop adaptive
 
+### MgSorb-landing
+- **Site:** [MgSorb 🌍](https://mgsorb.ru/)
+- **Stack:** Vite, React, TreeJS, Nodemailer, Redux-Toolkit, Styled-Components, TypeScript
+- **Description:** Fully responsive layout with mobile and desktop adaptive , website about unique biodegradable magnesium implants
+
 ### Tochka Bank Integration
 - **Backend:** [GitHub 🌍](https://github.com/gh110919/tochka_bank-openapi_methods-ts)
 - **Frontend:** [GitHub 🌍](https://github.com/gh110919/tochka_bank-openapi_frontend-ts)
