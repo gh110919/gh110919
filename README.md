@@ -7,13 +7,13 @@
 
 ## 🚀 My Best Creations
 
-### Brontosaur-landing
+### Brontosaur
 - **Code:** [GitHub 🌍](https://github.com/gh110919/brontosaur-landing)
 - **Site:** [Brontosaur 🌍](https://promo.brontosaur.ru/)
 - **Stack:** Next (SSR React Framework), Redux-Toolkit, Styled-Components, TypeScript
 - **Description:** Fully responsive layout with mobile and desktop adaptive
 
-### MgSorb-landing
+### MgSorb
 - **Site:** [MgSorb 🌍](https://mgsorb.ru/)
 - **Stack:** Vite, React, TreeJS, Nodemailer, Redux-Toolkit, Styled-Components, TypeScript
 - **Description:** Fully responsive layout with mobile and desktop adaptive , website about unique biodegradable magnesium implants
