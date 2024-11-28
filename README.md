@@ -7,8 +7,14 @@
 
 ## 🚀 My Best Creations
 
-### Brontosaur
+### Brontosaur v1.1.0
 - **Code:** [GitHub 🌍](https://github.com/gh110919/brontosaur-landing)
+- **Site:** [Brontosaur 🌍](https://gh110919.github.io/brontosaur-landing/)
+- **Stack:** Next (SSR React Framework), Redux-Toolkit, Styled-Components, TypeScript
+- **Description:** Fully responsive layout with mobile and desktop adaptive
+
+### Brontosaur v2.1.0
+- **Code:** [GitHub 🌍](https://github.com/WEBONIZER/brontosaur-landing)
 - **Site:** [Brontosaur 🌍](https://promo.brontosaur.ru/)
 - **Stack:** Next (SSR React Framework), Redux-Toolkit, Styled-Components, TypeScript
 - **Description:** Fully responsive layout with mobile and desktop adaptive
