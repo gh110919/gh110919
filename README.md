@@ -59,6 +59,7 @@
 
 - **React:** [ReduxToolkit 🌍](https://redux-toolkit.js.org/introduction/getting-started), [StyledComponents 🌍](https://styled-components.com/docs/basics#getting-started)
 - **Vue:** [Pinia 🌍](https://pinia.vuejs.org/getting-started.html)
+- **Svelte:** [Effector 🌍](https://effector.dev/ru/introduction/motivation/)
 - **Angular:** [NgRx 🌍](https://next.ngrx.io/guide/store)
 - **Testing:** [Cypress 🌍](https://docs.cypress.io/guides/getting-started/installing-cypress)
 - **Platform:** [Node 🌍](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs), [Deno 🌍](https://docs.deno.com/runtime/manual/), [Bun 🌍](https://bun.sh/docs)
