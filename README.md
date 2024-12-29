@@ -40,7 +40,7 @@
 - **Frameworks:** [React 🌍](https://react.dev/learn), [Vue 🌍](https://vuejs.org/guide/quick-start.html), [Angular 🌍](https://angular.io/start)
 
 ### NoSQL
-- **MongoDB:** [Mongo 🌍](https://www.mongodb.com/docs/manual/tutorial/getting-started/), [Mongoose 🌍](https://mongoosejs.com/docs/guide.html)
+- **MongoDB:** [Mongo 🌍](https://www.mongodb.com/docs/manual/tutorial/getting-started/), [Mongoose 🌍](https://mongoosejs.com/docs/guide.html), [MongoDB 🌍](https://www.mongodb.com/docs/drivers/node/current/)
 
 ### SQL
 - **ORM:** [Knex 🌍](https://knexjs.org/guide/), [TypeORM 🌍](https://typeorm.io/), [Sequelize 🌍](https://sequelize.org/docs/v6/getting-started/)
@@ -82,5 +82,9 @@
 - **Rust:** [Otus 🌍](https://otus.ru/lessons/rust-developer-basic/)
 
 ## 🧠 I Also Want to Learn
+- **Monitoring** [Prometheus 🌍](https://prometheus.io), [Grafana 🌍](https://grafana.com/)
+- **Logging** [Elasticsearch 🌍](https://www.elastic.co/elasticsearch), [Kibana 🌍](https://www.elastic.co/kibana)
+- **Message Brokers** [RabbitMQ 🌍](https://www.rabbitmq.com/), [Kafka 🌍](https://kafka.apache.org/)
+- **Сaching** [Redis 🌍](https://redis.io/), [Memcached 🌍](https://memcached.org)
 - **C++:** [Otus 🌍](https://otus.ru/lessons/cpp-specialization/), [UnrealEngine 🌍](https://www.unrealengine.com/en-US)
 - **C#:** [Otus 🌍](https://otus.ru/lessons/c-sharp-specialization/), [UnityEngine 🌍](https://unity.com)
