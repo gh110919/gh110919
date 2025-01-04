@@ -25,9 +25,8 @@
 - **Description:** Fully responsive layout with mobile and desktop adaptive , website about unique biodegradable magnesium implants
 
 ### Tochka Bank Integration
-- **Backend:** [GitHub 🌍](https://github.com/gh110919/tochka_bank-openapi_methods-ts)
-- **Frontend:** [GitHub 🌍](https://github.com/gh110919/tochka_bank-openapi_frontend-ts)
-- **Stack:** Vite, React, Styled-Components, Express, Axios, TypeScript
+- **Fullstack:** [GitHub 🌍](https://github.com/gh110919/tochka_bank_openapi-fullstack.docker.bun.pm2)
+- **Stack:** Vite, React, Styled-Components, Express, Axios, TypeScript, Docker, PM2
 
 ## 💻 My Languages
 
