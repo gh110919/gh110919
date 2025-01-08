@@ -21,7 +21,7 @@
 
 ### MgSorb
 - **Site:** [MgSorb 🌍](https://mgsorb.ru/)
-- **Stack:** Vite, React, Redux-Toolkit, Axios, Styled-Components, TreeJS, Nodemailer, Handlebars, Express, TypeScript
+- **Stack:** Vite, Remix(SSR React Framework), Redux-Toolkit, Axios, Styled-Components, TreeJS, Nodemailer, Handlebars, Express, TypeScript
 - **Description:** Fully responsive layout with mobile and desktop adaptive , website about unique biodegradable magnesium implants
 
 ### Tochka Bank Integration
