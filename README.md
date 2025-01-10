@@ -7,7 +7,7 @@
 
 ## 🚀 My Best Creations 
 
-### TBank Integration v1.1.0
+### TBank Integration
 - **Code:** [GitHub 🌍](https://github.com/gh110919/tbank-openapi)
 - **Stack:** Node, Lit, Axios, TypeScript
 
