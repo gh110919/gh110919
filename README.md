@@ -32,6 +32,10 @@
 - **Fullstack:** [GitHub 🌍](https://github.com/gh110919/tochka_bank_openapi-fullstack.docker.bun.pm2)
 - **Stack:** Vite, React, Styled-Components, Express, Axios, TypeScript, Docker, PM2
 
+### OOP Cheat Sheet [GitHub 🌍](https://github.com/gh110919/OOP)
+
+### Algorithms Cheat Sheet [GitHub 🌍](https://github.com/gh110919/algorithms)
+
 ## 💻 My Languages
 
 ### HTML5 and CSS3
