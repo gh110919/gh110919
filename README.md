@@ -40,9 +40,11 @@
 
 ### HTML5 and CSS3
 - **HTML:** HTML5, [Pug 🌍](https://pugjs.org/api/getting-started.html)
-  - **Basics:** [Hexlet 🌍](https://code-basics.com/ru/languages/html), [Official Site 🌍](https://html.spec.whatwg.org/multipage/)
+  - **Basics:** [Code-Basics 🌍](https://code-basics.com/ru/languages/html), [Official Site 🌍](https://html.spec.whatwg.org/multipage/)
 - **CSS:** CSS3, [Sass 🌍](https://sass-lang.com/documentation/), [Less 🌍](https://lesscss.org/#overview)
-  - **Basics:** [Hexlet 🌍](https://code-basics.com/ru/languages/css), [Official Site 🌍](https://www.w3.org/Style/CSS/)
+  - **Basics:** [Code-Basics 🌍](https://code-basics.com/ru/languages/css), [Official Site 🌍](https://www.w3.org/Style/CSS/)
+- **SQL:** SQL23
+  - **Basics:** [Hexlet 🌍](https://ru.hexlet.io/programs/sql-basics-free) [Official Site 🌍](https://www.iso.org/standard/76583.html)
 
 ### JavaScript / TypeScript
 - **JS/TS:** ES6 and beyond
@@ -79,11 +81,11 @@
 - **Containerization:** [Docker 🌍](https://www.docker.com/get-started/), [Docker-Compose 🌍](https://docs.docker.com/compose/)
 
 ## 🐍 Python
-- **Basics:** [Hexlet 🌍](https://code-basics.com/ru/languages/python), [Official Site 🌍](https://www.python.org/about/gettingstarted/)
+- **Basics:** [Code-Basics 🌍](https://code-basics.com/ru/languages/python), [Official Site 🌍](https://www.python.org/about/gettingstarted/)
 - **Frameworks:** [FastAPI 🌍](https://fastapi.tiangolo.com/learn/), [SQLAlchemyORM 🌍](https://docs.sqlalchemy.org/en/20/intro.html#documentation-overview), [AriadneGQL 🌍](https://ariadnegraphql.org/docs/intro)
 
 ## 🐘 PHP
-- **Basics:** [Hexlet 🌍](https://code-basics.com/ru/languages/php), [Official Site 🌍](https://www.php.net/docs.php)
+- **Basics:** [Code-Basics 🌍](https://code-basics.com/ru/languages/php), [Official Site 🌍](https://www.php.net/docs.php)
 - **Frameworks:** [ReactPHP 🌍](https://reactphp.org/), [RedBeanORM 🌍](https://redbeanphp.com/api/index.html)
 
 ## 📚 Planning to Learn
