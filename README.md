@@ -12,13 +12,13 @@
 - **Stack:** Node, Lit, Axios, TypeScript
 
 ### Brontosaur v2.1.0
-- **Code:** [GitHub 🌍](https://github.com/gh110919/brontosaur_landing.remix)
+- **Code:** [GitHub 🌍](https://github.com/gh110919/brontosaur_landing_remix)
 - **Site:** [Brontosaur 🌍](https://promo.brontosaur.ru/)
 - **Stack:** Remix(SSR React Framework), Redux-Toolkit, Styled-Components, TypeScript
 - **Description:** Fully responsive layout with mobile and desktop adaptive
 
 ### Brontosaur v1.1.0
-- **Code:** [GitHub 🌍](https://github.com/gh110919/brontosaur_landing.next)
+- **Code:** [GitHub 🌍](https://github.com/gh110919/brontosaur_landing_next)
 - **Site:** [Brontosaur 🌍](https://gh110919.github.io/brontosaur_landing_next/)
 - **Stack:** Next(SSR React Framework), Redux-Toolkit, Styled-Components, TypeScript
 - **Description:** Fully responsive layout with mobile and desktop adaptive
