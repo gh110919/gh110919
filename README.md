@@ -98,9 +98,5 @@
 - **Rust:** [Otus](https://otus.ru/lessons/rust-developer-basic/)
 
 ## 🧠 I Also Want to Learn
-- **Monitoring** [Prometheus](https://prometheus.io), [Grafana](https://grafana.com/)
-- **Logging** [Elasticsearch](https://www.elastic.co/elasticsearch), [Kibana](https://www.elastic.co/kibana)
-- **Message Brokers** [RabbitMQ](https://www.rabbitmq.com/), [Kafka](https://kafka.apache.org/)
-- **Сaching** [Redis](https://redis.io/), [Memcached](https://memcached.org)
 - **C++:** [Otus](https://otus.ru/lessons/cpp-specialization/), [UnrealEngine](https://www.unrealengine.com/en-US)
 - **C#:** [Otus](https://otus.ru/lessons/c-sharp-specialization/), [UnityEngine](https://unity.com)
