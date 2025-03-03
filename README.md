@@ -5,37 +5,6 @@
 **Age:** 30 years old  
 **Direction:** [Fullstack Web Development](https://practicum.yandex.ru/profile/web-plus/)  
 
-## 🚀 My Best Creations 
-
-### TBank Integration
-- **Code:** [GitHub](https://github.com/gh110919/tbank-openapi)
-- **Stack:** Node, Lit, Axios, TypeScript
-
-### Brontosaur v2.1.0
-- **Code:** [GitHub](https://github.com/gh110919/brontosaur_landing_remix)
-- **Site:** [Brontosaur](https://promo.brontosaur.ru/)
-- **Stack:** Remix(SSR React Framework), Redux-Toolkit, Styled-Components, TypeScript
-- **Description:** Fully responsive layout with mobile and desktop adaptive
-
-### Brontosaur v1.1.0
-- **Code:** [GitHub](https://github.com/gh110919/brontosaur_landing_next)
-- **Site:** [Brontosaur](https://gh110919.github.io/brontosaur_landing_next/)
-- **Stack:** Next(SSR React Framework), Redux-Toolkit, Styled-Components, TypeScript
-- **Description:** Fully responsive layout with mobile and desktop adaptive
-
-### MgSorb
-- **Site:** [MgSorb](https://mgsorb.ru/)
-- **Stack:** Vite, Remix(SSR React Framework), Redux-Toolkit, Axios, Styled-Components, TreeJS, Nodemailer, Handlebars, Express, TypeScript
-- **Description:** Fully responsive layout with mobile and desktop adaptive , website about unique biodegradable magnesium implants
-
-### Tochka Bank Integration
-- **Fullstack:** [GitHub](https://github.com/gh110919/tochka_bank_openapi-fullstack-docker-bun-pm2)
-- **Stack:** Vite, React, Styled-Components, Express, Axios, TypeScript, Docker, PM2
-
-### OOP Cheat Sheet [GitHub](https://github.com/gh110919/OOP)
-
-### Algorithms Cheat Sheet [GitHub](https://github.com/gh110919/algorithms)
-
 ## 💻 My Languages
 
 ### HTML5 and CSS3
