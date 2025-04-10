@@ -55,6 +55,10 @@
 - **Clickhouse + Superset** [Clickhouse](https://clickhouse.com/docs/cloud/get-started/cloud-quick-start) [dh](https://hub.docker.com/_/clickhouse), [Superset](https://superset.apache.org/docs/intro) [dh](https://hub.docker.com/r/apache/superset)
 - **Memcashed/Redis + RedisInsight** [Memcashed](https://docs.memcached.org/) [dh](https://hub.docker.com/_/memcached), [Redis](https://redis.io/docs/latest/) [dh](https://hub.docker.com/_/redis), [RedisInsight](https://redis-doc.netlify.app/docs/connect/insight/) [dh](https://hub.docker.com/r/redis/redisinsight)
 
+## 🦦 Go
+- **Basics:** [Code-Basics](https://code-basics.com/ru/languages/go), [Official Site](https://go.dev/learn/)
+- **Frameworks:** [Gin](https://gin-gonic.com), [GORM](https://gorm.io/docs/)
+
 ## 🐍 Python
 - **Basics:** [Code-Basics](https://code-basics.com/ru/languages/python), [Official Site](https://www.python.org/about/gettingstarted/)
 - **Frameworks:** [FastAPI](https://fastapi.tiangolo.com/learn/), [SQLAlchemyORM](https://docs.sqlalchemy.org/en/20/intro.html#documentation-overview), [AriadneGQL](https://ariadnegraphql.org/docs/intro)
