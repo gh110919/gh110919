@@ -65,10 +65,9 @@
 
 ## 🐘 PHP
 - **Basics:** [Code-Basics](https://code-basics.com/ru/languages/php), [Official Site](https://www.php.net/docs.php)
-- **Frameworks:** [ReactPHP](https://reactphp.org/), [RedBeanORM](https://redbeanphp.com/api/index.html)
+- **Frameworks:** [ReactPHP](https://reactphp.org/), [illuminate/database](https://packagist.org/packages/illuminate/database)
 
 ## 📚 Planning to Learn
-- **Go:** [Hexlet](https://code-basics.com/ru/languages/go)
 - **Rust:** [Otus](https://otus.ru/lessons/rust-developer-basic/)
 
 ## 🧠 I Also Want to Learn
