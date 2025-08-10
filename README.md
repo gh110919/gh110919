@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-**Age:** 30 years old  
+**Age:** 31 years old  
 **Direction:** [Fullstack Web Development](https://practicum.yandex.ru/profile/web-plus/)  
 
 ## 💻 My Languages
